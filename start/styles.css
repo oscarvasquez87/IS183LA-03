@@ -6,8 +6,16 @@
 }
 
 html, body {
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.full-width {
+    width: 100%;
 }
 
 /* home page css*/
